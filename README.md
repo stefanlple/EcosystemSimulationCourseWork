@@ -2,7 +2,7 @@
 ## Displays predator-prey relationship between foxes and bunnies
 ### Features:
 -Diagramms/Stats(Population size, Animal died...)  
--Hunting mechanism
+-Hunting mechanism  
 -Eating & Drinking  
 -Reproducing  
 -Music  

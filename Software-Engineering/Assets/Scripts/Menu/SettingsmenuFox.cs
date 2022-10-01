@@ -9,7 +9,7 @@ public class SettingsMenuFox : MonoBehaviour
     public Slider slider;
     public static int fox;
     public TextMeshProUGUI foxNumber;
-    
+    //slider
     // Update is called once per frame
     void Update()
     {

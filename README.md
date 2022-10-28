@@ -5,7 +5,7 @@
 -Hunting mechanism  
 -Eating & Drinking  
 -Reproduction
--Music  
+-Music   
 -Menu  
 ![xcvb](https://user-images.githubusercontent.com/81301569/175152961-578bfc46-60c9-43b7-8a86-f89ae455077d.png)
 

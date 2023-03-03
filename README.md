@@ -1,4 +1,4 @@
-# Ecosystem-Simulation
+# Ecosystem-Simulation (Unity)
 ## Displays predator-prey relationship between foxes and bunnies
 ### Features:
 -Diagramms/Stats(Population size, Animal died...)  
